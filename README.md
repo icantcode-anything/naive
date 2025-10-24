@@ -1,1 +1,1 @@
-authors: raf, niel, kurt, jorell, adrian
+authors: raf, niel, kurt, jorell, adrian, pau
